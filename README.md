@@ -1,5 +1,5 @@
 
-# College and Student Management API
+# GRAPHQL AND FASTAPI IMPLEMENTATION
 
 ## Overview
 
