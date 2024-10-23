@@ -1,5 +1,3 @@
-Here is a **complete `README.md`** with **CRUD operations, subscriptions, testing instructions**, and details to build a full **GraphQL API** using **Strawberry** and **SQLAlchemy** from start to finish.
-
 ---
 
 # GraphQL API with Strawberry, SQLAlchemy, and Subscriptions
@@ -322,11 +320,3 @@ python tests.py
 ```
 
 ---
-
-## 7. License
-
-This project is licensed under the MIT License.
-
----
-
-This **README** provides a complete overview of the GraphQL API using Strawberry, SQLAlchemy, and Uvicorn, including setup, CRUD operations, subscriptions, and testing.
