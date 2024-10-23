@@ -2,8 +2,8 @@ import asyncio
 from typing import List
 import strawberry
 
-from database import get_db
-from models import College, Student
+from api.database import get_db
+from api.models import College, Student
 
 
 @strawberry.type

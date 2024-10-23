@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
-from models import Base
+from api.models import Base
 
 DATABASE_URI = "sqlite:///./todos.db"
 
