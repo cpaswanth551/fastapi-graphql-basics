@@ -39,7 +39,7 @@ class StudentType:
     age: int
     college_id: int
 ```
-````
+
 
 These types represent the structure of the college and student data.
 
